@@ -1,0 +1,14 @@
+H1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2em; font-weight: bold;}
+
+html{background-color: black;
+text-align: center;
+font-family: 'Libre Baskerville', serif;}
+
+.white{color: beige;}
+
+#pic{border: 5px,solid,violet;
+width: 100%;}
+
+#diff{ color:rgb(29, 223, 230); font-size: 1.3em; font-style: italic;}
